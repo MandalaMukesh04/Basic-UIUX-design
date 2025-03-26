@@ -11,7 +11,7 @@ This project is a UI/UX design for a travel booking application, created using F
 - **Responsive Design**: Optimized for various screen sizes and devices.
 
 ## Technologies Used
-- ([**Figma**](https://help.figma.com/hc/en-us)): Used for designing the user interface and user experience.
+- [**Figma**](https://help.figma.com/hc/en-us): Used for designing the user interface and user experience.
 - **Typography & Color Schemes**: Carefully chosen for better readability and aesthetic appeal.
 - **Icons & Images**: High-quality images and icons were used to enhance visual appeal.
 
@@ -29,6 +29,8 @@ This project is a UI/UX design for a travel booking application, created using F
 
 ## Project Link
 [View the Figma Design](https://www.figma.com/design/1l3aPyMV3V79wxWSJ1kA6w/newproject?node-id=0-1&t=gRYczLsuqaUexfT5-1)
+
+![Image](https://github.com/user-attachments/assets/1d969b49-74ee-4010-915b-8691116d0601)
 
 ## Installation & Usage
 Since this is a UI/UX design project, no installation is required. However, to view and edit the project, follow these steps:
